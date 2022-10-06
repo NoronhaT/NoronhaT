@@ -1,10 +1,10 @@
 # Seja Bem Vindo! 👋
 
-</p>Meu perfil profissional no linkedin é/My professional profile on linkedin is: https://www.linkedin.com/in/tsnoronha/
+</p>Meu perfil profissional no linkedin é - My professional profile on linkedin is: https://www.linkedin.com/in/tsnoronha/
 
 
 # NA PROGRAMAÇÃO EU UTILIZO/FOR PROGRAMMING I USE:
-:snake: - Python
+- Python
 - SQL
 
 
