@@ -3,12 +3,21 @@
 </p>Meu perfil profissional no linkedin é/My professional profile on linkedin is: https://www.linkedin.com/in/tsnoronha/
 
 
-# NA PROGRAMAÇÃO EU UTILIZO:
-:snake: - # Python
+# NA PROGRAMAÇÃO EU UTILIZO/FOR PROGRAMMING I USE:
+:snake: - Python
+- SQL
 
 
-# FOR PROGRAMMING I USE:
-:snake: - # Python
+# BIBLIOTECAS FAVORITAS/FAVORITE LIB:
+
+1. Pandas
+2. Numpy
+3. Selenium
+4. Pyautogui
+5. Pywinauto
+6. Gspread
+7. Pulp
+8. Pyinstaller
 
 
 # RESUMO
