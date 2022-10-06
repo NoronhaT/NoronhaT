@@ -25,7 +25,7 @@
 
 </p>Sou engenheiro de produção (2016), atualmente cursando Data Science pela USP/ESALQ.
 </p>Minha área de trabalho é melhorar processos de fabricação, administrativos e qualquer tarefa computacional executada repetidas vezes por um usuário.
-</p>Além de criar indicadores em DataStudio, PowerBi ou Tableau com extrações automátizadas. Criando dinamismo nas tomadas de decisões para qualquer negócio.
+</p>Além de criar indicadores em DataStudio, PowerBi ou Tableau com extrações automatizadas. Criando dinamismo nas tomadas de decisões para qualquer negócio.
 </p>Também possou alguns projetos de visão computacional para detecção de objetos (DARKNET YOLO) chatbot, assitente virtual, analise de carteira de criptomoedas por API, automações de sistemas erp para extração de dados, extrações via SQL em sistema erp, integrações com o googledrive,webscraper através de selenium, atendente de whatsapp dentre outros projetos aqui no meu Github.
 
 # RESUME
