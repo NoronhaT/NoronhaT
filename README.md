@@ -1,7 +1,7 @@
 # Seja Bem Vindo! 👋
 
 </p>Meu perfil profissional no linkedin é - My professional profile on linkedin is: https://www.linkedin.com/in/tsnoronha/
-
+</p>O link para meu currículo - The link for my resume: https://drive.google.com/drive/folders/11rSMks09Z2i32-t30kC8M4KZ_ICdfCdC?usp=sharing
 
 # NA PROGRAMAÇÃO EU UTILIZO/FOR PROGRAMMING I USE:
 - Python
