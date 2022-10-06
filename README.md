@@ -2,10 +2,27 @@
 
 </p>Meu perfil profissional no linkedin é/My professional profile on linkedin is: https://www.linkedin.com/in/tsnoronha/
 
-# RESUME
+
+# NA PROGRAMAÇÃO EU UTILIZO:
+:snake: - # Python
+
+
+# FOR PROGRAMMING I USE:
+:snake: - # Python
+
+
+# RESUMO
 
 </p>Sou engenheiro de produção (2016), atualmente cursando Data Science pela USP/ESALQ.
-</p>
+</p>Minha área de trabalho é melhorar processos de fabricação, administrativos e qualquer tarefa computacional executada repetidas vezes por um usuário.
+</p>Além de criar indicadores em DataStudio, PowerBi ou Tableau com extrações automátizadas. Criando dinamismo nas tomadas de decisões para qualquer negócio.
+</p>Também possou alguns projetos de chatbot, assitente virtual, analise de carteira de criptomoedas por API, automações de sistemas erp para extração de dados, extrações via SQL em sistema erp, integrações com o googledrive,webscraper através de selenium, atendente de whatsapp dentre outros projetos aqui no meu Github.
+
+# RESUME
+</p> I am a production engineer (2016), currently studying Data Science at USP/ESALQ.
+My desktop improve manufacturing processes, administrative and any task over and over again by a computer user.
+</p>In addition to indicators in DataStudio, PowerBi or Tableau with automatic extracts. Creating dynamism in decision making for any business.
+</p>It can also chatbot projects, virtual assistant, analysis of cryptocurrency wallet by API, automation of erp systems for data collection, extractions via SQL in erp system, integrations with googledrive, whatsapp attendant among other projects not here my Github.
 
 <!--
 **NoronhaT/NoronhaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
