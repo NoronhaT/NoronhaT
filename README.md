@@ -1,11 +1,11 @@
 # Seja Bem Vindo! 👋
 
-- Meu perfil profissional no linkedin é/My professional profile on linkedin is: https://www.linkedin.com/in/tsnoronha/
+</p>Meu perfil profissional no linkedin é/My professional profile on linkedin is: https://www.linkedin.com/in/tsnoronha/
 
 # RESUME
 
-Sou engenheiro de produção (2016), atualmente cursando Data Science pela USP/ESALQ.
-
+</p>Sou engenheiro de produção (2016), atualmente cursando Data Science pela USP/ESALQ.
+</p>
 
 <!--
 **NoronhaT/NoronhaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
