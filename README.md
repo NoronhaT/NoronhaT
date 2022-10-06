@@ -1,6 +1,6 @@
 ### Hi there 👋
-Meu perfil no linkedin é: https://www.linkedin.com/in/tsnoronha/
-
+Meu perfil profissional no linkedin é: https://www.linkedin.com/in/tsnoronha/
+My professional profile on linkedin is: https://www.linkedin.com/in/tsnoronha/
 
 <!--
 **NoronhaT/NoronhaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
