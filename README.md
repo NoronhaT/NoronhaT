@@ -19,6 +19,9 @@
 7. Gspread
 8. Pulp
 9. Pyinstaller
+10. BotCity
+11. Prophet
+12. Openia
 
 
 # RESUMO
