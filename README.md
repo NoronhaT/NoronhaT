@@ -5,9 +5,9 @@
 </p>Meu site de serviços aqui - The link for my business: https://www.3lackd.com
 </p>Youtube - https://youtube.com/@botmakerpythonrpa
 
-</p># NA PROGRAMAÇÃO EU UTILIZO/FOR PROGRAMMING I USE:
+</p># I LOVE:
 - Python
-- SQL
+
 
 
 
