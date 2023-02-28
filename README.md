@@ -8,7 +8,7 @@
 </p># I LOVE:
 - Python
 
-
+![alt text](https://imgur.com/a/2W0ZzM2)
 
 
 # RESUMO
