@@ -1,4 +1,6 @@
 # NORONHA-TECH AGRADECE SUA VISITA! :robot:
+![Purple Modern Game Channel Youtube Banner](https://user-images.githubusercontent.com/86447428/221861820-353620d1-6fb7-4b3e-9f7f-2184c0b377b3.png)
+
 
 </p>Meu perfil profissional no linkedin é - My professional profile on linkedin is: https://www.linkedin.com/in/tsnoronha/
 </p>O link para meu currículo - The link for my resume: https://drive.google.com/drive/folders/11rSMks09Z2i32-t30kC8M4KZ_ICdfCdC?usp=sharing
@@ -7,6 +9,8 @@
 
 </p># I LOVE:
 - Python
+
+<img width="1667" alt="Captura de Tela 2023-02-28 às 08 31 38" src="https://user-images.githubusercontent.com/86447428/221861577-4f689b6e-d0b6-45cf-8a33-4f09e48b4902.png">
 
 
 
